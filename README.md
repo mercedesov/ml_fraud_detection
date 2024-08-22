@@ -1,4 +1,5 @@
-##Fraud Detection Project##
+## Fraud Detection Project
+
 **Introduction**
 
 This project focuses on developing a machine learning model to detect fraudulent activities in financial transactions. With the increasing volume of online transactions, identifying and preventing fraud has become crucial for financial institutions. This project aims to build an accurate and efficient fraud detection model using various machine learning techniques.
@@ -32,8 +33,11 @@ Test the model on unseen data using the provided test cases in the notebook.
 The project leverages the following key libraries and functions:
 
 ***Pandas***: For data manipulation and analysis.
+
 ***NumPy***: For numerical computations.
+
 ***Scikit-learn***: For model building, training, and evaluation.
+
 ***Matplotlib/Seaborn***: For data visualization and plotting.
 
 These libraries were chosen for their efficiency and ease of use in handling data and building machine learning models.
