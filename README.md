@@ -6,13 +6,14 @@ This project focuses on developing a machine learning model to detect fraudulent
 **Getting Started**
 
 To get started with the project, follow these steps:
-1.Clone the repository:
+
+1. Clone the repository:
 `git clone https://github.com/mercedesov/ml_fraud_detection.git`
 `cd ml_fraud_detection`
 
-2.Install the required dependencies
+2. Install the required dependencies
 
-3.Download the dataset:
+3. Download the dataset:
 [Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download)
 
 **Running the Project**
