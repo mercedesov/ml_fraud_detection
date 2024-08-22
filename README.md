@@ -12,7 +12,7 @@ Clone the repository:
 
 Install the required dependencies
 Download the dataset:
-[Kaggle](https://www.example.com](https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download)
+[Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download)
 
 **Running the Project**
 
